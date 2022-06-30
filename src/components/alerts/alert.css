@@ -29,4 +29,19 @@ h3{
   font-size:1.6em;
   cursor:pointer;
 }
+@media screen and (max-width: 600px) {
+  *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+  .alert{
+    width:70%;
+    margin:20px auto;
+    padding:20px;
+    position:relative;
+    border-radius:5px;
+    box-shadow:0 0 15px 5px #ccc;
+  }
+}
 
