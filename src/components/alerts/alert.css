@@ -1,16 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 *{
   margin:0;
   padding:0;
   box-sizing:border-box;
 }
 h3{
-    font-family:Quicksand;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: center;
 }
 .alert{
-  width:20%;
+  width:16%;
   margin:20px auto;
-  padding:20px;
+  padding:10px;
   position:relative;
   border-radius:5px;
   box-shadow:0 0 15px 5px #ccc;
@@ -36,12 +38,18 @@ h3{
     box-sizing:border-box;
   }
   .alert{
-    width:70%;
+    width:42%;
     margin:20px auto;
-    padding:20px;
+    padding:2.75px;
     position:relative;
-    border-radius:5px;
+    border-radius:2px;
     box-shadow:0 0 15px 5px #ccc;
   }
+  h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    text-align: center;
+}
 }
 

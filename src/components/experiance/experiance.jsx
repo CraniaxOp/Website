@@ -5,7 +5,7 @@ const experiance = () => {
   return (
     <section id = "experiance">
       <h5>What Skills I Have</h5>
-      <h2>My Experiance</h2>
+      <h2>My Experience</h2>
 
       <div className='container experiance_container'>
         <div className="experiance_frontend">
@@ -48,42 +48,42 @@ const experiance = () => {
               <BsFillPatchCheckFill className='experiance_details-icons'/>
              <div>
              <h4>C</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experiance_details'>
               <BsFillPatchCheckFill className='experiance_details-icons'/>
              <div>
              <h4>C++</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experiance_details'>
               <BsFillPatchCheckFill className='experiance_details-icons'/>
              <div>
              <h4>Java</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experiance_details'>
               <BsFillPatchCheckFill className='experiance_details-icons'/>
               <div>
               <h4>Spring Framework</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experiance_details'>
               <BsFillPatchCheckFill className='experiance_details-icons'/>
              <div>
              <h4>Java Enterprise Edition</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
              </div>
             </article>
             <article className='experiance_details'>
               <BsFillPatchCheckFill className='experiance_details-icons'/>
             <div>
             <h4>MySql</h4>
-              <small className='text-light'>Experianced</small>
+              <small className='text-light'>Experienced</small>
             </div>
             </article>
             <article className='experiance_details'>
