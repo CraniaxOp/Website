@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.3b42629c.css",
-    "main.js": "/Website/static/js/main.7b4e2165.js",
-    "static/media/Travel.png": "/Website/static/media/Travel.73bcbd22e925f31a69ab.png",
-    "static/media/CV.pdf": "/Website/static/media/CV.d72b52338a4829fde15b.pdf",
-    "static/media/Healthcare.png": "/Website/static/media/Healthcare.b4fac0062d06716d86ea.png",
-    "static/media/boy.png": "/Website/static/media/boy.5ca4b670a32b71681d2c.png",
-    "static/media/Vector2.png": "/Website/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "index.html": "/Website/index.html",
-    "main.3b42629c.css.map": "/Website/static/css/main.3b42629c.css.map",
-    "main.7b4e2165.js.map": "/Website/static/js/main.7b4e2165.js.map"
+    "main.css": "/WebsiteReact/static/css/main.3b42629c.css",
+    "main.js": "/WebsiteReact/static/js/main.6b5ba253.js",
+    "static/media/Travel.png": "/WebsiteReact/static/media/Travel.73bcbd22e925f31a69ab.png",
+    "static/media/CV.pdf": "/WebsiteReact/static/media/CV.d72b52338a4829fde15b.pdf",
+    "static/media/Healthcare.png": "/WebsiteReact/static/media/Healthcare.b4fac0062d06716d86ea.png",
+    "static/media/boy.png": "/WebsiteReact/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/Vector2.png": "/WebsiteReact/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/WebsiteReact/index.html",
+    "main.3b42629c.css.map": "/WebsiteReact/static/css/main.3b42629c.css.map",
+    "main.6b5ba253.js.map": "/WebsiteReact/static/js/main.6b5ba253.js.map"
   },
   "entrypoints": [
     "static/css/main.3b42629c.css",
-    "static/js/main.7b4e2165.js"
+    "static/js/main.6b5ba253.js"
   ]
 }
